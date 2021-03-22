@@ -1,1 +1,1 @@
-# Simple-WP-Super-Cache-WordPress-Plugin-Authenticated-RCE-Scanner
+# Simple Scanner (WP-Super-Cache-WordPress-Plugin-Authenticated-RCE) 
